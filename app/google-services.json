@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676950690836",
+    "firebase_url": "https://noddingdetection.firebaseio.com",
+    "project_id": "noddingdetection",
+    "storage_bucket": "noddingdetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676950690836:android:b6c04ea099f78d42e6eb01",
+        "android_client_info": {
+          "package_name": "com.example.noddingdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676950690836-a674fjkgkd3422l6md2qgbki161910be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYPgGsBrU_RJx3cFltgJuTq33RloYyLYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676950690836-a674fjkgkd3422l6md2qgbki161910be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
